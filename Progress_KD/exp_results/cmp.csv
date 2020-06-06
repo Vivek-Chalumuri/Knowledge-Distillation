@@ -1,0 +1,5 @@
+Model,validation,test,epoch
+teacher,0.914,0.9035,20
+student-KD,0.896,0.8557,50
+studnet-PBT,0.826,0.8244,50
+student-scratch,0.86,0.8022,50
